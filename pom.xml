@@ -11,7 +11,7 @@
     <version>2.0.0</version>
   </parent>
   <description>Sentinel-1 offset tracking</description>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
   <properties>
     <summary>Sentinel-1 offset tracking</summary>
     <description>Sentinel-1 offset tracking</description>
@@ -60,7 +60,6 @@
         </plugins>
       </build>
     </profile>
-
     <profile>
       <id>package-app</id>
       <activation>
@@ -71,7 +70,6 @@
       </activation>
       <build>
         <plugins>
-
           <plugin>
             <groupId>org.codehaus.mojo</groupId>
             <artifactId>exec-maven-plugin</artifactId>
@@ -95,7 +93,6 @@
               </execution>
             </executions>
           </plugin>
-
           <plugin>
             <groupId>org.codehaus.mojo</groupId>
             <artifactId>rpm-maven-plugin</artifactId>
