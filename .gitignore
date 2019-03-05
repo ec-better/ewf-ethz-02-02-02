@@ -8,3 +8,10 @@ runc
 Untitled.ipynb
 TEST.ipynb
 application.xml
+*.tif
+*.properties
+*.tgz
+*.gz
+*.dim
+*.data
+S1_OFFSET*.xml
