@@ -11,7 +11,7 @@
     <version>3.0.1-docker</version>
   </parent>
   <description>Sentinel-1 offset tracking</description>
-  <version>0.12</version>
+  <version>0.13</version>
   <properties>
     <summary>Sentinel-1 offset tracking</summary>
     <description>Sentinel-1 offset tracking</description>
