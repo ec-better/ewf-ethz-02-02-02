@@ -30,7 +30,7 @@ cioppy=0.2.9=py27h6a2dc41_0
 click=6.7=py27h4225b90_0
 click-plugins=1.0.3=py27_0
 cligj=0.4.0=py27_0
-conda=4.4.6=py27_0
+conda=4.5.13=py27_0
 conda-build=3.2.0=py27_0
 conda-env=2.6.0=h36134e3_1
 conda-verify=2.0.0=py27hf052a9d_0
@@ -106,7 +106,7 @@ libnetcdf=4.4.1=0
 libpng=1.6.32=hda9c8bc_2
 libpq=9.5.4=0
 libsodium=1.0.10=0
-libspatialindex=1.8.5=1
+libspatialindex=1.8.5=h20b78c2_2
 libstdcxx-ng=7.2.0=h7a57d05_2
 libtiff=4.0.6=2
 libxcb=1.12=1
