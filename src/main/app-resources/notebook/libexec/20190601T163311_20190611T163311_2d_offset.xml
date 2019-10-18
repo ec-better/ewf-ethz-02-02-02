@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EarthObservation>
+  <om:phenomenonTime xmlns:om="http://www.opengis.net/om/2.0">
+    <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml/3.2">
+      <gml:beginPosition>2019-06-01T16:33:11.0240000Z</gml:beginPosition>
+      <gml:endPosition>2019-06-11T16:33:11.0240000Z</gml:endPosition>
+    </gml:TimePeriod>
+  </om:phenomenonTime>
+  <om:featureOfInterest xmlns:om="http://www.opengis.net/om/2.0">
+    <ssp:Footprint xmlns:ssp="http://www.opengis.net/ssp/2.1">
+      <ssp:multiExtentOf>
+        <gml:MultiSurface xmlns:gml="http://www.opengis.net/gml/3.2">
+          <gml:surfaceMembers>
+            <gml:Polygon>
+              <gml:exterior>
+                <gml:LinearRing>
+                  <gml:posList count="5">-1.14119817369 -91.3211482168 -1.0099224946 -90.7173731878 -0.555527245703 -90.8494254302 -0.663724697433 -91.4084864258 -1.14119817369 -91.3211482168 </gml:posList>
+                </gml:LinearRing>
+              </gml:exterior>
+            </gml:Polygon>
+          </gml:surfaceMembers>
+        </gml:MultiSurface>
+      </ssp:multiExtentOf>
+    </ssp:Footprint>
+  </om:featureOfInterest>
+</EarthObservation>
