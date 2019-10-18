@@ -19,9 +19,9 @@
     <yumRepo>ec-better</yumRepo>
   </properties>
   <scm>
-    <connection>git@gitlab.com:ec-better/eth-z/applications/ewf-ethz-02-02-02.git</connection>
-    <developerConnection>git@gitlab.com:ec-better/eth-z/applications/ewf-ethz-02-02-02.git</developerConnection>
-    <url>https://gitlab.com/ec-better/eth-z/applications/ewf-ethz-02-02-02.git</url>
+    <connection>scm:git:ssh://git@gitlab.com:ec-better/eth-z/applications/ewf-ethz-02-02-02.git</connection>
+    <developerConnection>scm:git:ssh://git@gitlab.com:ec-better/eth-z/applications/ewf-ethz-02-02-02.git</developerConnection>
+    <url>https://gitlab.com/ec-better/eth-z/applications/ewf-ethz-02-02-02</url>
     <tag>HEAD</tag>
   </scm>
   <profiles>
