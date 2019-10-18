@@ -2,26 +2,26 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.terradue</groupId>
-  <artifactId>offset-tracking</artifactId>
+  <artifactId>Sentinel-2 feature tracking</artifactId>
   <packaging>pom</packaging>
-  <name>offset-tracking</name>
+  <name>Sentinel-2 feature tracking</name>
   <parent>
     <groupId>com.terradue</groupId>
     <artifactId>dcs-python-parent</artifactId>
     <version>2.0.0</version>
   </parent>
-  <description>Sentinel-1 offset tracking</description>
-  <version>0.17-SNAPSHOT</version>
+  <description>Sentinel-2 feature tracking</description>
+  <version>1.0.1-SNAPSHOT</version>
   <properties>
-    <summary>Sentinel-1 offset tracking</summary>
-    <description>Sentinel-1 offset tracking</description>
-    <community>geohazards-tep</community>
-    <yumRepo>geohazards-tep</yumRepo>
+    <summary>Sentinel-2 feature tracking</summary>
+    <description>Sentinel-2 feature tracking</description>
+    <community>ec-better</community>
+    <yumRepo>ec-better</yumRepo>
   </properties>
   <scm>
-    <connection>scm:git:ssh://git@github.com/geohazards-tep/offset-tracking</connection>
-    <developerConnection>scm:git:ssh://git@github.com/geohazards-tep/offset-tracking</developerConnection>
-    <url>https://github.com/geohazards-tep/offset-tracking</url>
+    <connection>git@gitlab.com:ec-better/eth-z/applications/ewf-ethz-02-02-02.git</connection>
+    <developerConnection>git@gitlab.com:ec-better/eth-z/applications/ewf-ethz-02-02-02.git</developerConnection>
+    <url>https://gitlab.com/ec-better/eth-z/applications/ewf-ethz-02-02-02.git</url>
     <tag>HEAD</tag>
   </scm>
   <profiles>
