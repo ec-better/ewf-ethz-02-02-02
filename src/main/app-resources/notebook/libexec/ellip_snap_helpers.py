@@ -3,7 +3,7 @@ import time
 import os
 import numpy as np
 from shapely.wkt import loads
-
+        
 def create_metadata(metadata, filename):
 
     namespaces = dict()
@@ -115,3 +115,5 @@ def create_metadata(metadata, filename):
             file.write('category={}'.format(cat_expression))
 
     return filename + '.xml', filename + '.properties'
+
+
