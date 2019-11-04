@@ -1,0 +1,18 @@
+#!/bin/bash
+
+conda update conda -y
+
+conda install -y --file /application/dependencies/python/packages.list
+
+conda clean --all -y
+
+cd /tmp
+mkdir matlab_runtime_94
+cd matlab_runtime_94
+
+wget http://ssd.mathworks.com/supportfiles/downloads/R2018a/deployment_files/R2018a/installers/glnxa64/MCR_R2018a_glnxa64_installer.zip
+unzip MCR_R2018a_glnxa64_installer.zip
+
+./install -console -mode silent -agreeToLicense yes -destinationFolder /opt/ 
+
+rm -rf /tmp/matlab_runtime_94
