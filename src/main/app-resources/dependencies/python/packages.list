@@ -281,6 +281,7 @@ rpy2=2.8.5=py27r3.3.2_2
 rtree=0.8.3=py27_0
 ruamel_yaml=0.11.14=py27_0
 run_dic=1.0.7=py27_0
+run_inverse_model=1.0.1=py27_0
 scandir=1.4=py27_0
 scikit-image=0.13.1=py27h14c3975_1
 scikit-learn=0.19.1=py27h445a80a_0
