@@ -11,7 +11,7 @@
     <version>3.0.1-docker</version>
   </parent>
   <description>Sentinel-2 feature tracking</description>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <properties>
     <summary>Sentinel-2 feature tracking</summary>
     <description>Sentinel-2 feature tracking</description>
