@@ -68,7 +68,7 @@ descartes=1.1.0=py27h5233db4_0
 distributed=1.18.0=py27_0
 docutils=0.14=py27hae222c1_0
 ellip_atc_helpers=0.0.9=py27ha09eeb9_1
-ellip_triggers=0.9.9=py27_0
+ellip_triggers=0.9.8=py27_0
 entrypoints=0.2.2=py27_0
 enum34=1.1.6=py27_0
 et_xmlfile=1.0.1=py27_0
